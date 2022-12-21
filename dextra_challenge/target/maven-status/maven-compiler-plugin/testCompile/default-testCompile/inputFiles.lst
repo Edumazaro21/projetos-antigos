@@ -1,0 +1,3 @@
+/app/src/test/java/br/com/dextra/dextrachallenge/service/CharacterServiceTest.java
+/app/src/test/java/br/com/dextra/dextrachallenge/DextrachallengeApplicationTests.java
+/app/src/test/java/br/com/dextra/dextrachallenge/repositories/CharacterRepositoryTest.java

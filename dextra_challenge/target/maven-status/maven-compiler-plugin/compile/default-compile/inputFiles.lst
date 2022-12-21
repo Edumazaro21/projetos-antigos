@@ -1,0 +1,16 @@
+/app/src/main/java/br/com/dextra/dextrachallenge/repositories/CharacterRepository.java
+/app/src/main/java/br/com/dextra/dextrachallenge/config/SwaggerConfiguration.java
+/app/src/main/java/br/com/dextra/dextrachallenge/service/CharacterService.java
+/app/src/main/java/br/com/dextra/dextrachallenge/model/dto/HouseDto.java
+/app/src/main/java/br/com/dextra/dextrachallenge/model/dto/CharacterDto.java
+/app/src/main/java/br/com/dextra/dextrachallenge/model/entity/Character.java
+/app/src/main/java/br/com/dextra/dextrachallenge/config/ValidationErrorHandler.java
+/app/src/main/java/br/com/dextra/dextrachallenge/DextrachallengeApplication.java
+/app/src/main/java/br/com/dextra/dextrachallenge/config/responseEntity/DefaultResponseEntityFactory.java
+/app/src/main/java/br/com/dextra/dextrachallenge/config/responseEntity/DefaultResponseEntity.java
+/app/src/main/java/br/com/dextra/dextrachallenge/config/ApiProperties.java
+/app/src/main/java/br/com/dextra/dextrachallenge/service/HouseService.java
+/app/src/main/java/br/com/dextra/dextrachallenge/controller/CharacterController.java
+/app/src/main/java/br/com/dextra/dextrachallenge/model/dto/PotterApiResponse.java
+/app/src/main/java/br/com/dextra/dextrachallenge/model/dto/ValidationDto.java
+/app/src/main/java/br/com/dextra/dextrachallenge/model/mapper/CharacterMapper.java

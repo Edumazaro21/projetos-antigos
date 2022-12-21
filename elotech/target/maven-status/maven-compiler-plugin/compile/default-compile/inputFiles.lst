@@ -1,0 +1,16 @@
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\controller\PessoaController.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\model\dto\ContatoDto.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\validacao\ErroDeFormularioDto.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\validacao\ErroDeValidacaoHandler.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\config\swagger\SwaggerConfigurations.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\config\ReponseEntity\DefaultResponseEntityFactory.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\DesafioApplication.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\config\ReponseEntity\DefaultResponseEntity.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\validacao\CpfValidator.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\repository\PessoaRepository.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\model\dto\PessoaFiltroDto.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\model\entity\Contato.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\service\PessoaService.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\validacao\Cpf.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\model\dto\PessoaDto.java
+C:\Users\eduma\Documents\Programação\SpringBoot\desafio\src\main\java\br\com\elotech\desafio\model\entity\Pessoa.java

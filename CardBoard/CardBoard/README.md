@@ -1,0 +1,1 @@
+Projeto responsável por realizar o cálculo automático da venda média. O tempo de verificação é configurável e sempre é visto se a Consitência já foi realizada.

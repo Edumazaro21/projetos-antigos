@@ -1,0 +1,6 @@
+build
+libs/VRCore.jar
+libs/VRLib.jar
+libs/VRFramework.jar
+libs/VRCommons
+.gradle
